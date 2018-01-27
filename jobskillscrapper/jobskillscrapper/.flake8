@@ -1,0 +1,11 @@
+[flake8]
+ignore = F405
+exclude =
+    .tox,
+    .git,
+    __pycache__,
+    */migrations/*,
+    */static/CACHE/*,
+    docs,
+    node_modules
+max-line-length = 119

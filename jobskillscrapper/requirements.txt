@@ -1,0 +1,9 @@
+beautifulsoup4==4.5.3
+Django==1.10.5
+flake8==3.2.1
+psycopg2==2.6.2
+boto3
+elasticsearch
+awscli
+requests
+stem

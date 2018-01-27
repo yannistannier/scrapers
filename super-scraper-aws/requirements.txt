@@ -1,0 +1,6 @@
+stem==1.5.4
+boto3==1.4.4
+awscli==1.11.47
+requests==2.13.0
+elasticsearch==5.2.0
+bs4==0.0.1
