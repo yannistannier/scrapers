@@ -1,5 +1,10 @@
 # SUPER SCRAPER
 
+## technologie stack :
+
+python, tor, aws lambda, aws kinesis, aws s3, aws athena
+
+
 ## Installation all package
 ```
 sudo apt-get update 
